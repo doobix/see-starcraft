@@ -1,0 +1,52 @@
+{
+  "Protoss": [
+    "Arbiter",
+    "Archon",
+    "Carrier",
+    "Corsair",
+    "Dark Archon",
+    "Dark Templar",
+    "Dragoon",
+    "High Templar",
+    "Interceptor",
+    "Observer",
+    "Probe",
+    "Reaver",
+    "Scout",
+    "Shuttle",
+    "Zealot"
+  ],
+  "Terran": [
+    "Battlecruiser",
+    "Dropship",
+    "Ghost",
+    "Goliath",
+    "Firebat",
+    "Marine",
+    "Medic",
+    "Science Vessel",
+    "SCV",
+    "Siege Tank",
+    "Spider Mine",
+    "Valkyrie",
+    "Vulture",
+    "Wraith"
+  ],
+  "Zerg": [
+    "Broodling",
+    "Defiler",
+    "Devourer",
+    "Drone",
+    "Guardian",
+    "Hydralisk",
+    "Infested Terran",
+    "Larva",
+    "Lurker",
+    "Mutalisk",
+    "Overlord",
+    "Queen",
+    "Scourge",
+    "Ultralisk",
+    "Zergling"
+  ]
+}
