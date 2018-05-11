@@ -1,7 +1,7 @@
 const getRandomInt = require('./random');
 const starCraftUnits = require('./starcraft-units.json');
 
-class seeStarCraft {
+class SeeStarCraft {
   getRandomRace() {
     const randomRace = getRandomInt(3);
     return Object.keys(starCraftUnits)[randomRace];
@@ -15,4 +15,4 @@ class seeStarCraft {
   }
 }
 
-module.exports = seeStarCraft;
+module.exports = SeeStarCraft;
