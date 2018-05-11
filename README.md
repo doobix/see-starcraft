@@ -1,6 +1,14 @@
 # see-starcraft
 
+[![npm package](https://nodei.co/npm/see-starcraft.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/see-starcraft/)
+
 Random StarCraft: Brood War stuff
+
+## Installation
+
+```
+npm i --save see-starcraft
+```
 
 ## Usage
 
