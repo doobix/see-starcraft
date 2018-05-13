@@ -1,52 +1,140 @@
 {
   "Protoss": [
-    "Arbiter",
-    "Archon",
-    "Carrier",
-    "Corsair",
-    "Dark Archon",
-    "Dark Templar",
-    "Dragoon",
-    "High Templar",
-    "Interceptor",
-    "Observer",
-    "Probe",
-    "Reaver",
-    "Scout",
-    "Shuttle",
-    "Zealot"
+    {
+      "name": "Arbiter"
+    },
+    {
+      "name": "Archon"
+    },
+    {
+      "name": "Carrier"
+    },
+    {
+      "name": "Corsair"
+    },
+    {
+      "name": "Dark Archon"
+    },
+    {
+      "name": "Dark Templar"
+    },
+    {
+      "name": "Dragoon"
+    },
+    {
+      "name": "High Templar"
+    },
+    {
+      "name": "Interceptor"
+    },
+    {
+      "name": "Observer"
+    },
+    {
+      "name": "Probe"
+    },
+    {
+      "name": "Reaver"
+    },
+    {
+      "name": "Scout"
+    },
+    {
+      "name": "Shuttle"
+    },
+    {
+      "name": "Zealot"
+    }
   ],
   "Terran": [
-    "Battlecruiser",
-    "Dropship",
-    "Ghost",
-    "Goliath",
-    "Firebat",
-    "Marine",
-    "Medic",
-    "Science Vessel",
-    "SCV",
-    "Siege Tank",
-    "Spider Mine",
-    "Valkyrie",
-    "Vulture",
-    "Wraith"
+    {
+      "name": "Battlecruiser"
+    },
+    {
+      "name": "Dropship"
+    },
+    {
+      "name": "Ghost"
+    },
+    {
+      "name": "Goliath"
+    },
+    {
+      "name": "Firebat"
+    },
+    {
+      "name": "Marine"
+    },
+    {
+      "name": "Medic"
+    },
+    {
+      "name": "Science Vessel"
+    },
+    {
+      "name": "SCV"
+    },
+    {
+      "name": "Siege Tank"
+    },
+    {
+      "name": "Spider Mine"
+    },
+    {
+      "name": "Valkyrie"
+    },
+    {
+      "name": "Vulture"
+    },
+    {
+      "name": "Wraith"
+    }
   ],
   "Zerg": [
-    "Broodling",
-    "Defiler",
-    "Devourer",
-    "Drone",
-    "Guardian",
-    "Hydralisk",
-    "Infested Terran",
-    "Larva",
-    "Lurker",
-    "Mutalisk",
-    "Overlord",
-    "Queen",
-    "Scourge",
-    "Ultralisk",
-    "Zergling"
+    {
+      "name": "Broodling"
+    },
+    {
+      "name": "Defiler"
+    },
+    {
+      "name": "Devourer"
+    },
+    {
+      "name": "Drone"
+    },
+    {
+      "name": "Guardian"
+    },
+    {
+      "name": "Hydralisk"
+    },
+    {
+      "name": "Infested Terran"
+    },
+    {
+      "name": "Larva"
+    },
+    {
+      "name": "Lurker"
+    },
+    {
+      "name": "Mutalisk"
+    },
+    {
+      "name": "Overlord"
+    },
+    {
+      "name": "Queen"
+    },
+    {
+      "name": "Scourge"
+    },
+    {
+      "name": "Ultralisk"
+    },
+    {
+      "name": "Zergling"
+    }
   ]
 }
