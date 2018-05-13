@@ -15,8 +15,14 @@ npm i --save see-starcraft
 ```
 const SeeStarCraft = require('./node_modules/see-starcraft');
 const ssc = new SeeStarCraft();
-console.log(ssc.getRandomRace()); // Zerg
-console.log(ssc.getRandomUnit()); // Science Vessel
+
+console.log(ssc.getRandomRace());
+// "Zerg"
+
+console.log(ssc.getRandomUnit());
+// {
+//   "name": "Science Vessel"
+// }
 ```
 
 ## License
