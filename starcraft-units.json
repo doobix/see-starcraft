@@ -1,140 +1,404 @@
 {
   "Protoss": [
     {
-      "name": "Arbiter"
+      "name": "Arbiter",
+      "cost": {
+        "gas": 350,
+        "minerals": 100,
+        "supply": 4,
+        "time": 101
+      }
     },
     {
-      "name": "Archon"
+      "name": "Archon",
+      "cost": {
+        "gas": 0,
+        "minerals": 0,
+        "supply": 4,
+        "time": 13
+      }
     },
     {
-      "name": "Carrier"
+      "name": "Carrier",
+      "cost": {
+        "gas": 250,
+        "minerals": 350,
+        "supply": 6,
+        "time": 88
+      }
     },
     {
-      "name": "Corsair"
+      "name": "Corsair",
+      "cost": {
+        "gas": 100,
+        "minerals": 150,
+        "supply": 2,
+        "time": 40
+      }
     },
     {
-      "name": "Dark Archon"
+      "name": "Dark Archon",
+      "cost": {
+        "gas": 0,
+        "minerals": 0,
+        "supply": 4,
+        "time": 13
+      }
     },
     {
-      "name": "Dark Templar"
+      "name": "Dark Templar",
+      "cost": {
+        "gas": 100,
+        "minerals": 125,
+        "supply": 2,
+        "time": 32
+      }
     },
     {
-      "name": "Dragoon"
+      "name": "Dragoon",
+      "cost": {
+        "gas": 50,
+        "minerals": 125,
+        "supply": 2,
+        "time": 32
+      }
     },
     {
-      "name": "High Templar"
+      "name": "High Templar",
+      "cost": {
+        "gas": 150,
+        "minerals": 50,
+        "supply": 2,
+        "time": 50
+      }
     },
     {
-      "name": "Interceptor"
+      "name": "Interceptor",
+      "cost": {
+        "gas": 0,
+        "minerals": 25,
+        "supply": 0,
+        "time": 13
+      }
     },
     {
-      "name": "Observer"
+      "name": "Observer",
+      "cost": {
+        "gas": 75,
+        "minerals": 25,
+        "supply": 1,
+        "time": 25
+      }
     },
     {
-      "name": "Probe"
+      "name": "Probe",
+      "cost": {
+        "gas": 0,
+        "minerals": 50,
+        "supply": 1,
+        "time": 13
+      }
     },
     {
-      "name": "Reaver"
+      "name": "Reaver",
+      "cost": {
+        "gas": 100,
+        "minerals": 200,
+        "supply": 4,
+        "time": 44
+      }
     },
     {
-      "name": "Scout"
+      "name": "Scout",
+      "cost": {
+        "gas": 125,
+        "minerals": 275,
+        "supply": 3,
+        "time": 80
+      }
     },
     {
-      "name": "Shuttle"
+      "name": "Shuttle",
+      "cost": {
+        "gas": 0,
+        "minerals": 200,
+        "supply": 2,
+        "time": 38
+      }
     },
     {
-      "name": "Zealot"
+      "name": "Zealot",
+      "cost": {
+        "gas": 0,
+        "minerals": 100,
+        "supply": 2,
+        "time": 25
+      }
     }
   ],
   "Terran": [
     {
-      "name": "Battlecruiser"
+      "name": "Battlecruiser",
+      "cost": {
+        "gas": 300,
+        "minerals": 400,
+        "supply": 6,
+        "time": 84
+      }
     },
     {
-      "name": "Dropship"
+      "name": "Dropship",
+      "cost": {
+        "gas": 100,
+        "minerals": 100,
+        "supply": 2,
+        "time": 32
+      }
     },
     {
-      "name": "Ghost"
+      "name": "Ghost",
+      "cost": {
+        "gas": 75,
+        "minerals": 25,
+        "supply": 1,
+        "time": 32
+      }
     },
     {
-      "name": "Goliath"
+      "name": "Goliath",
+      "cost": {
+        "gas": 50,
+        "minerals": 100,
+        "supply": 2,
+        "time": 25
+      }
     },
     {
-      "name": "Firebat"
+      "name": "Firebat",
+      "cost": {
+        "gas": 25,
+        "minerals": 50,
+        "supply": 1,
+        "time": 15
+      }
     },
     {
-      "name": "Marine"
+      "name": "Marine",
+      "cost": {
+        "gas": 0,
+        "minerals": 50,
+        "supply": 1,
+        "time": 15
+      }
     },
     {
-      "name": "Medic"
+      "name": "Medic",
+      "cost": {
+        "gas": 25,
+        "minerals": 50,
+        "supply": 1,
+        "time": 19
+      }
     },
     {
-      "name": "Science Vessel"
+      "name": "Science Vessel",
+      "cost": {
+        "gas": 225,
+        "minerals": 100,
+        "supply": 2,
+        "time": 50
+      }
     },
     {
-      "name": "SCV"
+      "name": "SCV",
+      "cost": {
+        "gas": 0,
+        "minerals": 50,
+        "supply": 1,
+        "time": 13
+      }
     },
     {
-      "name": "Siege Tank"
+      "name": "Siege Tank",
+      "cost": {
+        "gas": 100,
+        "minerals": 150,
+        "supply": 2,
+        "time": 32
+      }
     },
     {
-      "name": "Spider Mine"
+      "name": "Spider Mine",
+      "cost": {
+        "gas": 0,
+        "minerals": 0,
+        "supply": 0,
+        "time": 0
+      }
     },
     {
-      "name": "Valkyrie"
+      "name": "Valkyrie",
+      "cost": {
+        "gas": 125,
+        "minerals": 250,
+        "supply": 3,
+        "time": 32
+      }
     },
     {
-      "name": "Vulture"
+      "name": "Vulture",
+      "cost": {
+        "gas": 0,
+        "minerals": 75,
+        "supply": 2,
+        "time": 19
+      }
     },
     {
-      "name": "Wraith"
+      "name": "Wraith",
+      "cost": {
+        "gas": 100,
+        "minerals": 150,
+        "supply": 2,
+        "time": 38
+      }
     }
   ],
   "Zerg": [
     {
-      "name": "Broodling"
+      "name": "Broodling",
+      "cost": {
+        "gas": 0,
+        "minerals": 0,
+        "supply": 0,
+        "time": 0
+      }
     },
     {
-      "name": "Defiler"
+      "name": "Defiler",
+      "cost": {
+        "gas": 150,
+        "minerals": 50,
+        "supply": 2,
+        "time": 32
+      }
     },
     {
-      "name": "Devourer"
+      "name": "Devourer",
+      "cost": {
+        "gas": 50,
+        "minerals": 150,
+        "supply": 2,
+        "time": 25
+      }
     },
     {
-      "name": "Drone"
+      "name": "Drone",
+      "cost": {
+        "gas": 0,
+        "minerals": 50,
+        "supply": 1,
+        "time": 13
+      }
     },
     {
-      "name": "Guardian"
+      "name": "Guardian",
+      "cost": {
+        "gas": 100,
+        "minerals": 50,
+        "supply": 2,
+        "time": 25
+      }
     },
     {
-      "name": "Hydralisk"
+      "name": "Hydralisk",
+      "cost": {
+        "gas": 25,
+        "minerals": 75,
+        "supply": 1,
+        "time": 18
+      }
     },
     {
-      "name": "Infested Terran"
+      "name": "Infested Terran",
+      "cost": {
+        "gas": 50,
+        "minerals": 100,
+        "supply": 1,
+        "time": 25
+      }
     },
     {
-      "name": "Larva"
+      "name": "Larva",
+      "cost": {
+        "gas": 0,
+        "minerals": 0,
+        "supply": 0,
+        "time": 14
+      }
     },
     {
-      "name": "Lurker"
+      "name": "Lurker",
+      "cost": {
+        "gas": 100,
+        "minerals": 50,
+        "supply": 2,
+        "time": 25
+      }
     },
     {
-      "name": "Mutalisk"
+      "name": "Mutalisk",
+      "cost": {
+        "gas": 100,
+        "minerals": 100,
+        "supply": 2,
+        "time": 25
+      }
     },
     {
-      "name": "Overlord"
+      "name": "Overlord",
+      "cost": {
+        "gas": 0,
+        "minerals": 100,
+        "supply": 0,
+        "time": 25
+      }
     },
     {
-      "name": "Queen"
+      "name": "Queen",
+      "cost": {
+        "gas": 100,
+        "minerals": 100,
+        "supply": 2,
+        "time": 32
+      }
     },
     {
-      "name": "Scourge"
+      "name": "Scourge",
+      "cost": {
+        "gas": 75,
+        "minerals": 25,
+        "supply": 0.5,
+        "time": 19
+      }
     },
     {
-      "name": "Ultralisk"
+      "name": "Ultralisk",
+      "cost": {
+        "gas": 200,
+        "minerals": 200,
+        "supply": 4,
+        "time": 38
+      }
     },
     {
-      "name": "Zergling"
+      "name": "Zergling",
+      "cost": {
+        "gas": 0,
+        "minerals": 50,
+        "supply": 0.5,
+        "time": 18
+      }
     }
   ]
 }
