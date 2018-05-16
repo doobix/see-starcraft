@@ -21,7 +21,13 @@ console.log(ssc.getRandomRace());
 
 console.log(ssc.getRandomUnit());
 // {
-//   "name": "Science Vessel"
+//   "name": "Science Vessel",
+//   "cost": {
+//     "gas": 225,
+//     "minerals": 100,
+//     "supply": 2,
+//     "time": 50
+//   }
 // }
 ```
 
