@@ -1,0 +1,158 @@
+{
+  "Protoss": [
+    {
+      "name": "Arbiter Tribunal"
+    },
+    {
+      "name": "Assimilator"
+    },
+    {
+      "name": "Citadel of Adun"
+    },
+    {
+      "name": "Cybernetics Core"
+    },
+    {
+      "name": "Fleet Beacon"
+    },
+    {
+      "name": "Forge"
+    },
+    {
+      "name": "Gateway"
+    },
+    {
+      "name": "Nexus"
+    },
+    {
+      "name": "Observatory"
+    },
+    {
+      "name": "Photon Cannon"
+    },
+    {
+      "name": "Pylon"
+    },
+    {
+      "name": "Robotics Facility"
+    },
+    {
+      "name": "Robotics Support Bay"
+    },
+    {
+      "name": "Shield Battery"
+    },
+    {
+      "name": "Stargate"
+    },
+    {
+      "name": "Templar Archives"
+    }
+  ],
+  "Terran": [
+    {
+      "name": "Academy"
+    },
+    {
+      "name": "Armory"
+    },
+    {
+      "name": "Barracks"
+    },
+    {
+      "name": "Bunker"
+    },
+    {
+      "name": "Command Center"
+    },
+    {
+      "name": "Comsat Station"
+    },
+    {
+      "name": "Control Tower"
+    },
+    {
+      "name": "Covert Ops"
+    },
+    {
+      "name": "Engineering Bay"
+    },
+    {
+      "name": "Factory"
+    },
+    {
+      "name": "Machine Shop"
+    },
+    {
+      "name": "Missile Turret"
+    },
+    {
+      "name": "Nuclear Silo"
+    },
+    {
+      "name": "Physics Lab"
+    },
+    {
+      "name": "Refinery"
+    },
+    {
+      "name": "Science Facility"
+    },
+    {
+      "name": "Starport"
+    },
+    {
+      "name": "Supply Depot"
+    }
+  ],
+  "Zerg": [
+    {
+      "name": "Creep Colony"
+    },
+    {
+      "name": "Defiler Mound"
+    },
+    {
+      "name": "Evolution Chamber"
+    },
+    {
+      "name": "Extractor"
+    },
+    {
+      "name": "Greater Spire"
+    },
+    {
+      "name": "Hatchery"
+    },
+    {
+      "name": "Hive"
+    },
+    {
+      "name": "Hydralisk Den"
+    },
+    {
+      "name": "Lair"
+    },
+    {
+      "name": "Nydus Canal"
+    },
+    {
+      "name": "Queen's Nest"
+    },
+    {
+      "name": "Spawning Pool"
+    },
+    {
+      "name": "Spire"
+    },
+    {
+      "name": "Spore Colony"
+    },
+    {
+      "name": "Sunken COlony"
+    },
+    {
+      "name": "Ultralisk Cavern"
+    }
+  ]
+}
