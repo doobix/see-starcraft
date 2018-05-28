@@ -29,6 +29,11 @@ console.log(ssc.getRandomUnit());
 //     "time": 50
 //   }
 // }
+
+console.log(ssc.getRandomBuilding());
+// {
+//   "name": "Nexus"
+// }
 ```
 
 ## License
