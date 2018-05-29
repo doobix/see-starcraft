@@ -32,7 +32,12 @@ console.log(ssc.getRandomUnit());
 
 console.log(ssc.getRandomBuilding());
 // {
-//   "name": "Nexus"
+//   "name": "Gateway",
+//   "cost": {
+//     "gas": 0,
+//     "minerals": 150,
+//     "time": 60
+//   }
 // }
 ```
 
