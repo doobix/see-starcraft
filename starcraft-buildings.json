@@ -1,158 +1,416 @@
 {
   "Protoss": [
     {
-      "name": "Arbiter Tribunal"
+      "name": "Arbiter Tribunal",
+      "cost": {
+        "gas": 150,
+        "minerals": 200,
+        "time": 60
+      }
     },
     {
-      "name": "Assimilator"
+      "name": "Assimilator",
+      "cost": {
+        "gas": 0,
+        "minerals": 100,
+        "time": 40
+      }
     },
     {
-      "name": "Citadel of Adun"
+      "name": "Citadel of Adun",
+      "cost": {
+        "gas": 100,
+        "minerals": 150,
+        "time": 60
+      }
     },
     {
-      "name": "Cybernetics Core"
+      "name": "Cybernetics Core",
+      "cost": {
+        "gas": 0,
+        "minerals": 200,
+        "time": 60
+      }
     },
     {
-      "name": "Fleet Beacon"
+      "name": "Fleet Beacon",
+      "cost": {
+        "gas": 200,
+        "minerals": 300,
+        "time": 60
+      }
     },
     {
-      "name": "Forge"
+      "name": "Forge",
+      "cost": {
+        "gas": 0,
+        "minerals": 150,
+        "time": 40
+      }
     },
     {
-      "name": "Gateway"
+      "name": "Gateway",
+      "cost": {
+        "gas": 0,
+        "minerals": 150,
+        "time": 60
+      }
     },
     {
-      "name": "Nexus"
+      "name": "Nexus",
+      "cost": {
+        "gas": 0,
+        "minerals": 400,
+        "time": 120
+      }
     },
     {
-      "name": "Observatory"
+      "name": "Observatory",
+      "cost": {
+        "gas": 100,
+        "minerals": 50,
+        "time": 30
+      }
     },
     {
-      "name": "Photon Cannon"
+      "name": "Photon Cannon",
+      "cost": {
+        "gas": 0,
+        "minerals": 150,
+        "time": 50
+      }
     },
     {
-      "name": "Pylon"
+      "name": "Pylon",
+      "cost": {
+        "gas": 0,
+        "minerals": 100,
+        "time": 30
+      }
     },
     {
-      "name": "Robotics Facility"
+      "name": "Robotics Facility",
+      "cost": {
+        "gas": 200,
+        "minerals": 200,
+        "time": 80
+      }
     },
     {
-      "name": "Robotics Support Bay"
+      "name": "Robotics Support Bay",
+      "cost": {
+        "gas": 100,
+        "minerals": 150,
+        "time": 30
+      }
     },
     {
-      "name": "Shield Battery"
+      "name": "Shield Battery",
+      "cost": {
+        "gas": 0,
+        "minerals": 100,
+        "time": 30
+      }
     },
     {
-      "name": "Stargate"
+      "name": "Stargate",
+      "cost": {
+        "gas": 150,
+        "minerals": 150,
+        "time": 70
+      }
     },
     {
-      "name": "Templar Archives"
+      "name": "Templar Archives",
+      "cost": {
+        "gas": 200,
+        "minerals": 150,
+        "time": 60
+      }
     }
   ],
   "Terran": [
     {
-      "name": "Academy"
+      "name": "Academy",
+      "cost": {
+        "gas": 0,
+        "minerals": 150,
+        "time": 80
+      }
     },
     {
-      "name": "Armory"
+      "name": "Armory",
+      "cost": {
+        "gas": 50,
+        "minerals": 100,
+        "time": 80
+      }
     },
     {
-      "name": "Barracks"
+      "name": "Barracks",
+      "cost": {
+        "gas": 0,
+        "minerals": 150,
+        "time": 80
+      }
     },
     {
-      "name": "Bunker"
+      "name": "Bunker",
+      "cost": {
+        "gas": 0,
+        "minerals": 100,
+        "time": 30
+      }
     },
     {
-      "name": "Command Center"
+      "name": "Command Center",
+      "cost": {
+        "gas": 0,
+        "minerals": 400,
+        "time": 120
+      }
     },
     {
-      "name": "Comsat Station"
+      "name": "Comsat Station",
+      "cost": {
+        "gas": 50,
+        "minerals": 50,
+        "time": 40
+      }
     },
     {
-      "name": "Control Tower"
+      "name": "Control Tower",
+      "cost": {
+        "gas": 50,
+        "minerals": 50,
+        "time": 40
+      }
     },
     {
-      "name": "Covert Ops"
+      "name": "Covert Ops",
+      "cost": {
+        "gas": 50,
+        "minerals": 50,
+        "time": 40
+      }
     },
     {
-      "name": "Engineering Bay"
+      "name": "Engineering Bay",
+      "cost": {
+        "gas": 0,
+        "minerals": 125,
+        "time": 60
+      }
     },
     {
-      "name": "Factory"
+      "name": "Factory",
+      "cost": {
+        "gas": 100,
+        "minerals": 200,
+        "time": 80
+      }
     },
     {
-      "name": "Machine Shop"
+      "name": "Machine Shop",
+      "cost": {
+        "gas": 50,
+        "minerals": 50,
+        "time": 40
+      }
     },
     {
-      "name": "Missile Turret"
+      "name": "Missile Turret",
+      "cost": {
+        "gas": 0,
+        "minerals": 75,
+        "time": 30
+      }
     },
     {
-      "name": "Nuclear Silo"
+      "name": "Nuclear Silo",
+      "cost": {
+        "gas": 100,
+        "minerals": 100,
+        "time": 80
+      }
     },
     {
-      "name": "Physics Lab"
+      "name": "Physics Lab",
+      "cost": {
+        "gas": 50,
+        "minerals": 50,
+        "time": 40
+      }
     },
     {
-      "name": "Refinery"
+      "name": "Refinery",
+      "cost": {
+        "gas": 0,
+        "minerals": 100,
+        "time": 40
+      }
     },
     {
-      "name": "Science Facility"
+      "name": "Science Facility",
+      "cost": {
+        "gas": 150,
+        "minerals": 100,
+        "time": 60
+      }
     },
     {
-      "name": "Starport"
+      "name": "Starport",
+      "cost": {
+        "gas": 100,
+        "minerals": 150,
+        "time": 70
+      }
     },
     {
-      "name": "Supply Depot"
+      "name": "Supply Depot",
+      "cost": {
+        "gas": 0,
+        "minerals": 100,
+        "time": 40
+      }
     }
   ],
   "Zerg": [
     {
-      "name": "Creep Colony"
+      "name": "Creep Colony",
+      "cost": {
+        "gas": 0,
+        "minerals": 75,
+        "time": 20
+      }
     },
     {
-      "name": "Defiler Mound"
+      "name": "Defiler Mound",
+      "cost": {
+        "gas": 100,
+        "minerals": 100,
+        "time": 60
+      }
     },
     {
-      "name": "Evolution Chamber"
+      "name": "Evolution Chamber",
+      "cost": {
+        "gas": 0,
+        "minerals": 75,
+        "time": 40
+      }
     },
     {
-      "name": "Extractor"
+      "name": "Extractor",
+      "cost": {
+        "gas": 0,
+        "minerals": 50,
+        "time": 40
+      }
     },
     {
-      "name": "Greater Spire"
+      "name": "Greater Spire",
+      "cost": {
+        "gas": 150,
+        "minerals": 100,
+        "time": 120
+      }
     },
     {
-      "name": "Hatchery"
+      "name": "Hatchery",
+      "cost": {
+        "gas": 0,
+        "minerals": 300,
+        "time": 120
+      }
     },
     {
-      "name": "Hive"
+      "name": "Hive",
+      "cost": {
+        "gas": 150,
+        "minerals": 200,
+        "time": 120
+      }
     },
     {
-      "name": "Hydralisk Den"
+      "name": "Hydralisk Den",
+      "cost": {
+        "gas": 50,
+        "minerals": 100,
+        "time": 40
+      }
     },
     {
-      "name": "Lair"
+      "name": "Infested Command Center",
+      "cost": {
+        "gas": 0,
+        "minerals": 0,
+        "time": 120
+      }
     },
     {
-      "name": "Nydus Canal"
+      "name": "Lair",
+      "cost": {
+        "gas": 100,
+        "minerals": 150,
+        "time": 100
+      }
     },
     {
-      "name": "Queen's Nest"
+      "name": "Nydus Canal",
+      "cost": {
+        "gas": 0,
+        "minerals": 150,
+        "time": 40
+      }
     },
     {
-      "name": "Spawning Pool"
+      "name": "Queen's Nest",
+      "cost": {
+        "gas": 100,
+        "minerals": 150,
+        "time": 60
+      }
     },
     {
-      "name": "Spire"
+      "name": "Spawning Pool",
+      "cost": {
+        "gas": 0,
+        "minerals": 200,
+        "time": 80
+      }
     },
     {
-      "name": "Spore Colony"
+      "name": "Spire",
+      "cost": {
+        "gas": 150,
+        "minerals": 200,
+        "time": 120
+      }
     },
     {
-      "name": "Sunken COlony"
+      "name": "Spore Colony",
+      "cost": {
+        "gas": 0,
+        "minerals": 50,
+        "time": 20
+      }
     },
     {
-      "name": "Ultralisk Cavern"
+      "name": "Sunken Colony",
+      "cost": {
+        "gas": 0,
+        "minerals": 50,
+        "time": 20
+      }
+    },
+    {
+      "name": "Ultralisk Cavern",
+      "cost": {
+        "gas": 200,
+        "minerals": 150,
+        "time": 80
+      }
     }
   ]
 }
