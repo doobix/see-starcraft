@@ -18,4 +18,6 @@ assert(Object.keys(randomUnit.cost).includes('time'));
 const randomBuilding = ssc.getRandomBuilding();
 console.log(randomBuilding);
 assert(Object.keys(randomBuilding).includes('name'));
-
+assert(Object.keys(randomBuilding.cost).includes('minerals'));
+assert(Object.keys(randomBuilding.cost).includes('gas'));
+assert(Object.keys(randomBuilding.cost).includes('time'));
