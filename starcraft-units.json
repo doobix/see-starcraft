@@ -6,7 +6,7 @@
         "gas": 350,
         "minerals": 100,
         "supply": 4,
-        "time": 101
+        "time": 160
       }
     },
     {
@@ -15,7 +15,7 @@
         "gas": 0,
         "minerals": 0,
         "supply": 4,
-        "time": 13
+        "time": 20
       }
     },
     {
@@ -24,7 +24,7 @@
         "gas": 250,
         "minerals": 350,
         "supply": 6,
-        "time": 88
+        "time": 140
       }
     },
     {
@@ -42,7 +42,7 @@
         "gas": 0,
         "minerals": 0,
         "supply": 4,
-        "time": 13
+        "time": 20
       }
     },
     {
@@ -51,7 +51,7 @@
         "gas": 100,
         "minerals": 125,
         "supply": 2,
-        "time": 32
+        "time": 50
       }
     },
     {
@@ -60,7 +60,7 @@
         "gas": 50,
         "minerals": 125,
         "supply": 2,
-        "time": 32
+        "time": 50
       }
     },
     {
@@ -78,7 +78,7 @@
         "gas": 0,
         "minerals": 25,
         "supply": 0,
-        "time": 13
+        "time": 20
       }
     },
     {
@@ -87,7 +87,7 @@
         "gas": 75,
         "minerals": 25,
         "supply": 1,
-        "time": 25
+        "time": 40
       }
     },
     {
@@ -96,7 +96,7 @@
         "gas": 0,
         "minerals": 50,
         "supply": 1,
-        "time": 13
+        "time": 20
       }
     },
     {
@@ -105,7 +105,7 @@
         "gas": 100,
         "minerals": 200,
         "supply": 4,
-        "time": 44
+        "time": 70
       }
     },
     {
@@ -123,7 +123,7 @@
         "gas": 0,
         "minerals": 200,
         "supply": 2,
-        "time": 38
+        "time": 60
       }
     },
     {
@@ -132,7 +132,7 @@
         "gas": 0,
         "minerals": 100,
         "supply": 2,
-        "time": 25
+        "time": 40
       }
     }
   ],
@@ -143,7 +143,7 @@
         "gas": 300,
         "minerals": 400,
         "supply": 6,
-        "time": 84
+        "time": 133
       }
     },
     {
@@ -152,7 +152,7 @@
         "gas": 100,
         "minerals": 100,
         "supply": 2,
-        "time": 32
+        "time": 50
       }
     },
     {
@@ -161,7 +161,7 @@
         "gas": 75,
         "minerals": 25,
         "supply": 1,
-        "time": 32
+        "time": 50
       }
     },
     {
@@ -170,7 +170,7 @@
         "gas": 50,
         "minerals": 100,
         "supply": 2,
-        "time": 25
+        "time": 40
       }
     },
     {
@@ -179,7 +179,7 @@
         "gas": 25,
         "minerals": 50,
         "supply": 1,
-        "time": 15
+        "time": 24
       }
     },
     {
@@ -188,7 +188,7 @@
         "gas": 0,
         "minerals": 50,
         "supply": 1,
-        "time": 15
+        "time": 24
       }
     },
     {
@@ -197,7 +197,7 @@
         "gas": 25,
         "minerals": 50,
         "supply": 1,
-        "time": 19
+        "time": 30
       }
     },
     {
@@ -206,7 +206,7 @@
         "gas": 225,
         "minerals": 100,
         "supply": 2,
-        "time": 50
+        "time": 80
       }
     },
     {
@@ -215,7 +215,7 @@
         "gas": 0,
         "minerals": 50,
         "supply": 1,
-        "time": 13
+        "time": 20
       }
     },
     {
@@ -224,7 +224,7 @@
         "gas": 100,
         "minerals": 150,
         "supply": 2,
-        "time": 32
+        "time": 50
       }
     },
     {
@@ -251,7 +251,7 @@
         "gas": 0,
         "minerals": 75,
         "supply": 2,
-        "time": 19
+        "time": 30
       }
     },
     {
@@ -260,7 +260,7 @@
         "gas": 100,
         "minerals": 150,
         "supply": 2,
-        "time": 38
+        "time": 60
       }
     }
   ],
@@ -280,7 +280,7 @@
         "gas": 150,
         "minerals": 50,
         "supply": 2,
-        "time": 32
+        "time": 50
       }
     },
     {
@@ -289,7 +289,7 @@
         "gas": 50,
         "minerals": 150,
         "supply": 2,
-        "time": 25
+        "time": 40
       }
     },
     {
@@ -298,7 +298,7 @@
         "gas": 0,
         "minerals": 50,
         "supply": 1,
-        "time": 13
+        "time": 20
       }
     },
     {
@@ -307,7 +307,7 @@
         "gas": 100,
         "minerals": 50,
         "supply": 2,
-        "time": 25
+        "time": 40
       }
     },
     {
@@ -316,7 +316,7 @@
         "gas": 25,
         "minerals": 75,
         "supply": 1,
-        "time": 18
+        "time": 28
       }
     },
     {
@@ -325,7 +325,7 @@
         "gas": 50,
         "minerals": 100,
         "supply": 1,
-        "time": 25
+        "time": 40
       }
     },
     {
@@ -334,7 +334,7 @@
         "gas": 0,
         "minerals": 0,
         "supply": 0,
-        "time": 14
+        "time": 20
       }
     },
     {
@@ -343,7 +343,7 @@
         "gas": 100,
         "minerals": 50,
         "supply": 2,
-        "time": 25
+        "time": 40
       }
     },
     {
@@ -352,7 +352,7 @@
         "gas": 100,
         "minerals": 100,
         "supply": 2,
-        "time": 25
+        "time": 40
       }
     },
     {
@@ -361,7 +361,7 @@
         "gas": 0,
         "minerals": 100,
         "supply": 0,
-        "time": 25
+        "time": 40
       }
     },
     {
@@ -370,7 +370,7 @@
         "gas": 100,
         "minerals": 100,
         "supply": 2,
-        "time": 32
+        "time": 50
       }
     },
     {
@@ -379,7 +379,7 @@
         "gas": 75,
         "minerals": 25,
         "supply": 0.5,
-        "time": 19
+        "time": 30
       }
     },
     {
@@ -388,7 +388,7 @@
         "gas": 200,
         "minerals": 200,
         "supply": 4,
-        "time": 38
+        "time": 60
       }
     },
     {
@@ -397,7 +397,7 @@
         "gas": 0,
         "minerals": 50,
         "supply": 0.5,
-        "time": 18
+        "time": 28
       }
     }
   ]
