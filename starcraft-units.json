@@ -109,6 +109,15 @@
       }
     },
     {
+      "name": "Scarab",
+      "cost": {
+        "gas": 0,
+        "minerals": 15,
+        "supply": 0,
+        "time": 7
+      }
+    },
+    {
       "name": "Scout",
       "cost": {
         "gas": 125,
