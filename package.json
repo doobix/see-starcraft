@@ -1,6 +1,6 @@
 {
   "name": "see-starcraft",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "StarCraft Brood War details",
   "main": "index.js",
   "scripts": {
