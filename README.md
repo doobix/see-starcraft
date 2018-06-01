@@ -21,7 +21,7 @@ console.log(ssc.getRandomRace());
 
 console.log(ssc.getRandomUnit());
 // {
-//   "name": "Science Vessel",
+//   "name": "Terran Science Vessel",
 //   "cost": {
 //     "gas": 225,
 //     "minerals": 100,
@@ -32,7 +32,7 @@ console.log(ssc.getRandomUnit());
 
 console.log(ssc.getRandomBuilding());
 // {
-//   "name": "Gateway",
+//   "name": "Protoss Gateway",
 //   "cost": {
 //     "gas": 0,
 //     "minerals": 150,

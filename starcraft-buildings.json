@@ -1,7 +1,7 @@
 {
-  "Protoss": [
+  "buildings": [
     {
-      "name": "Arbiter Tribunal",
+      "name": "Protoss Arbiter Tribunal",
       "cost": {
         "gas": 150,
         "minerals": 200,
@@ -9,7 +9,7 @@
       }
     },
     {
-      "name": "Assimilator",
+      "name": "Protoss Assimilator",
       "cost": {
         "gas": 0,
         "minerals": 100,
@@ -17,7 +17,7 @@
       }
     },
     {
-      "name": "Citadel of Adun",
+      "name": "Protoss Citadel of Adun",
       "cost": {
         "gas": 100,
         "minerals": 150,
@@ -25,7 +25,7 @@
       }
     },
     {
-      "name": "Cybernetics Core",
+      "name": "Protoss Cybernetics Core",
       "cost": {
         "gas": 0,
         "minerals": 200,
@@ -33,7 +33,7 @@
       }
     },
     {
-      "name": "Fleet Beacon",
+      "name": "Protoss Fleet Beacon",
       "cost": {
         "gas": 200,
         "minerals": 300,
@@ -41,7 +41,7 @@
       }
     },
     {
-      "name": "Forge",
+      "name": "Protoss Forge",
       "cost": {
         "gas": 0,
         "minerals": 150,
@@ -49,7 +49,7 @@
       }
     },
     {
-      "name": "Gateway",
+      "name": "Protoss Gateway",
       "cost": {
         "gas": 0,
         "minerals": 150,
@@ -57,7 +57,7 @@
       }
     },
     {
-      "name": "Nexus",
+      "name": "Protoss Nexus",
       "cost": {
         "gas": 0,
         "minerals": 400,
@@ -65,7 +65,7 @@
       }
     },
     {
-      "name": "Observatory",
+      "name": "Protoss Observatory",
       "cost": {
         "gas": 100,
         "minerals": 50,
@@ -73,7 +73,7 @@
       }
     },
     {
-      "name": "Photon Cannon",
+      "name": "Protoss Photon Cannon",
       "cost": {
         "gas": 0,
         "minerals": 150,
@@ -81,7 +81,7 @@
       }
     },
     {
-      "name": "Pylon",
+      "name": "Protoss Pylon",
       "cost": {
         "gas": 0,
         "minerals": 100,
@@ -89,7 +89,7 @@
       }
     },
     {
-      "name": "Robotics Facility",
+      "name": "Protoss Robotics Facility",
       "cost": {
         "gas": 200,
         "minerals": 200,
@@ -97,7 +97,7 @@
       }
     },
     {
-      "name": "Robotics Support Bay",
+      "name": "Protoss Robotics Support Bay",
       "cost": {
         "gas": 100,
         "minerals": 150,
@@ -105,7 +105,7 @@
       }
     },
     {
-      "name": "Shield Battery",
+      "name": "Protoss Shield Battery",
       "cost": {
         "gas": 0,
         "minerals": 100,
@@ -113,7 +113,7 @@
       }
     },
     {
-      "name": "Stargate",
+      "name": "Protoss Stargate",
       "cost": {
         "gas": 150,
         "minerals": 150,
@@ -121,17 +121,15 @@
       }
     },
     {
-      "name": "Templar Archives",
+      "name": "Protoss Templar Archives",
       "cost": {
         "gas": 200,
         "minerals": 150,
         "time": 60
       }
-    }
-  ],
-  "Terran": [
+    },
     {
-      "name": "Academy",
+      "name": "Terran Academy",
       "cost": {
         "gas": 0,
         "minerals": 150,
@@ -139,7 +137,7 @@
       }
     },
     {
-      "name": "Armory",
+      "name": "Terran Armory",
       "cost": {
         "gas": 50,
         "minerals": 100,
@@ -147,7 +145,7 @@
       }
     },
     {
-      "name": "Barracks",
+      "name": "Terran Barracks",
       "cost": {
         "gas": 0,
         "minerals": 150,
@@ -155,7 +153,7 @@
       }
     },
     {
-      "name": "Bunker",
+      "name": "Terran Bunker",
       "cost": {
         "gas": 0,
         "minerals": 100,
@@ -163,7 +161,7 @@
       }
     },
     {
-      "name": "Command Center",
+      "name": "Terran Command Center",
       "cost": {
         "gas": 0,
         "minerals": 400,
@@ -171,7 +169,7 @@
       }
     },
     {
-      "name": "Comsat Station",
+      "name": "Terran Comsat Station",
       "cost": {
         "gas": 50,
         "minerals": 50,
@@ -179,7 +177,7 @@
       }
     },
     {
-      "name": "Control Tower",
+      "name": "Terran Control Tower",
       "cost": {
         "gas": 50,
         "minerals": 50,
@@ -187,7 +185,7 @@
       }
     },
     {
-      "name": "Covert Ops",
+      "name": "Terran Covert Ops",
       "cost": {
         "gas": 50,
         "minerals": 50,
@@ -195,7 +193,7 @@
       }
     },
     {
-      "name": "Engineering Bay",
+      "name": "Terran Engineering Bay",
       "cost": {
         "gas": 0,
         "minerals": 125,
@@ -203,7 +201,7 @@
       }
     },
     {
-      "name": "Factory",
+      "name": "Terran Factory",
       "cost": {
         "gas": 100,
         "minerals": 200,
@@ -211,7 +209,7 @@
       }
     },
     {
-      "name": "Machine Shop",
+      "name": "Terran Machine Shop",
       "cost": {
         "gas": 50,
         "minerals": 50,
@@ -219,7 +217,7 @@
       }
     },
     {
-      "name": "Missile Turret",
+      "name": "Terran Missile Turret",
       "cost": {
         "gas": 0,
         "minerals": 75,
@@ -227,7 +225,7 @@
       }
     },
     {
-      "name": "Nuclear Silo",
+      "name": "Terran Nuclear Silo",
       "cost": {
         "gas": 100,
         "minerals": 100,
@@ -235,7 +233,7 @@
       }
     },
     {
-      "name": "Physics Lab",
+      "name": "Terran Physics Lab",
       "cost": {
         "gas": 50,
         "minerals": 50,
@@ -243,7 +241,7 @@
       }
     },
     {
-      "name": "Refinery",
+      "name": "Terran Refinery",
       "cost": {
         "gas": 0,
         "minerals": 100,
@@ -251,7 +249,7 @@
       }
     },
     {
-      "name": "Science Facility",
+      "name": "Terran Science Facility",
       "cost": {
         "gas": 150,
         "minerals": 100,
@@ -259,7 +257,7 @@
       }
     },
     {
-      "name": "Starport",
+      "name": "Terran Starport",
       "cost": {
         "gas": 100,
         "minerals": 150,
@@ -267,17 +265,15 @@
       }
     },
     {
-      "name": "Supply Depot",
+      "name": "Terran Supply Depot",
       "cost": {
         "gas": 0,
         "minerals": 100,
         "time": 40
       }
-    }
-  ],
-  "Zerg": [
+    },
     {
-      "name": "Creep Colony",
+      "name": "Zerg Creep Colony",
       "cost": {
         "gas": 0,
         "minerals": 75,
@@ -285,7 +281,7 @@
       }
     },
     {
-      "name": "Defiler Mound",
+      "name": "Zerg Defiler Mound",
       "cost": {
         "gas": 100,
         "minerals": 100,
@@ -293,7 +289,7 @@
       }
     },
     {
-      "name": "Evolution Chamber",
+      "name": "Zerg Evolution Chamber",
       "cost": {
         "gas": 0,
         "minerals": 75,
@@ -301,7 +297,7 @@
       }
     },
     {
-      "name": "Extractor",
+      "name": "Zerg Extractor",
       "cost": {
         "gas": 0,
         "minerals": 50,
@@ -309,7 +305,7 @@
       }
     },
     {
-      "name": "Greater Spire",
+      "name": "Zerg Greater Spire",
       "cost": {
         "gas": 150,
         "minerals": 100,
@@ -317,7 +313,7 @@
       }
     },
     {
-      "name": "Hatchery",
+      "name": "Zerg Hatchery",
       "cost": {
         "gas": 0,
         "minerals": 300,
@@ -325,7 +321,7 @@
       }
     },
     {
-      "name": "Hive",
+      "name": "Zerg Hive",
       "cost": {
         "gas": 150,
         "minerals": 200,
@@ -333,7 +329,7 @@
       }
     },
     {
-      "name": "Hydralisk Den",
+      "name": "Zerg Hydralisk Den",
       "cost": {
         "gas": 50,
         "minerals": 100,
@@ -341,7 +337,7 @@
       }
     },
     {
-      "name": "Infested Command Center",
+      "name": "Zerg Infested Command Center",
       "cost": {
         "gas": 0,
         "minerals": 0,
@@ -349,7 +345,7 @@
       }
     },
     {
-      "name": "Lair",
+      "name": "Zerg Lair",
       "cost": {
         "gas": 100,
         "minerals": 150,
@@ -357,7 +353,7 @@
       }
     },
     {
-      "name": "Nydus Canal",
+      "name": "Zerg Nydus Canal",
       "cost": {
         "gas": 0,
         "minerals": 150,
@@ -365,7 +361,7 @@
       }
     },
     {
-      "name": "Queen's Nest",
+      "name": "Zerg Queen's Nest",
       "cost": {
         "gas": 100,
         "minerals": 150,
@@ -373,7 +369,7 @@
       }
     },
     {
-      "name": "Spawning Pool",
+      "name": "Zerg Spawning Pool",
       "cost": {
         "gas": 0,
         "minerals": 200,
@@ -381,7 +377,7 @@
       }
     },
     {
-      "name": "Spire",
+      "name": "Zerg Spire",
       "cost": {
         "gas": 150,
         "minerals": 200,
@@ -389,7 +385,7 @@
       }
     },
     {
-      "name": "Spore Colony",
+      "name": "Zerg Spore Colony",
       "cost": {
         "gas": 0,
         "minerals": 50,
@@ -397,7 +393,7 @@
       }
     },
     {
-      "name": "Sunken Colony",
+      "name": "Zerg Sunken Colony",
       "cost": {
         "gas": 0,
         "minerals": 50,
@@ -405,7 +401,7 @@
       }
     },
     {
-      "name": "Ultralisk Cavern",
+      "name": "Zerg Ultralisk Cavern",
       "cost": {
         "gas": 200,
         "minerals": 150,

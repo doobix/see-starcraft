@@ -1,7 +1,7 @@
 {
-  "Protoss": [
+  "units": [
     {
-      "name": "Arbiter",
+      "name": "Protoss Arbiter",
       "cost": {
         "gas": 350,
         "minerals": 100,
@@ -10,7 +10,7 @@
       }
     },
     {
-      "name": "Archon",
+      "name": "Protoss Archon",
       "cost": {
         "gas": 0,
         "minerals": 0,
@@ -19,7 +19,7 @@
       }
     },
     {
-      "name": "Carrier",
+      "name": "Protoss Carrier",
       "cost": {
         "gas": 250,
         "minerals": 350,
@@ -28,7 +28,7 @@
       }
     },
     {
-      "name": "Corsair",
+      "name": "Protoss Corsair",
       "cost": {
         "gas": 100,
         "minerals": 150,
@@ -37,7 +37,7 @@
       }
     },
     {
-      "name": "Dark Archon",
+      "name": "Protoss Dark Archon",
       "cost": {
         "gas": 0,
         "minerals": 0,
@@ -46,7 +46,7 @@
       }
     },
     {
-      "name": "Dark Templar",
+      "name": "Protoss Dark Templar",
       "cost": {
         "gas": 100,
         "minerals": 125,
@@ -55,7 +55,7 @@
       }
     },
     {
-      "name": "Dragoon",
+      "name": "Protoss Dragoon",
       "cost": {
         "gas": 50,
         "minerals": 125,
@@ -64,7 +64,7 @@
       }
     },
     {
-      "name": "High Templar",
+      "name": "Protoss High Templar",
       "cost": {
         "gas": 150,
         "minerals": 50,
@@ -73,7 +73,7 @@
       }
     },
     {
-      "name": "Interceptor",
+      "name": "Protoss Interceptor",
       "cost": {
         "gas": 0,
         "minerals": 25,
@@ -82,7 +82,7 @@
       }
     },
     {
-      "name": "Observer",
+      "name": "Protoss Observer",
       "cost": {
         "gas": 75,
         "minerals": 25,
@@ -91,7 +91,7 @@
       }
     },
     {
-      "name": "Probe",
+      "name": "Protoss Probe",
       "cost": {
         "gas": 0,
         "minerals": 50,
@@ -100,7 +100,7 @@
       }
     },
     {
-      "name": "Reaver",
+      "name": "Protoss Reaver",
       "cost": {
         "gas": 100,
         "minerals": 200,
@@ -109,7 +109,7 @@
       }
     },
     {
-      "name": "Scarab",
+      "name": "Protoss Scarab",
       "cost": {
         "gas": 0,
         "minerals": 15,
@@ -118,7 +118,7 @@
       }
     },
     {
-      "name": "Scout",
+      "name": "Protoss Scout",
       "cost": {
         "gas": 125,
         "minerals": 275,
@@ -127,7 +127,7 @@
       }
     },
     {
-      "name": "Shuttle",
+      "name": "Protoss Shuttle",
       "cost": {
         "gas": 0,
         "minerals": 200,
@@ -136,18 +136,16 @@
       }
     },
     {
-      "name": "Zealot",
+      "name": "Protoss Zealot",
       "cost": {
         "gas": 0,
         "minerals": 100,
         "supply": 2,
         "time": 40
       }
-    }
-  ],
-  "Terran": [
+    },
     {
-      "name": "Battlecruiser",
+      "name": "Terran Battlecruiser",
       "cost": {
         "gas": 300,
         "minerals": 400,
@@ -156,7 +154,7 @@
       }
     },
     {
-      "name": "Dropship",
+      "name": "Terran Dropship",
       "cost": {
         "gas": 100,
         "minerals": 100,
@@ -165,7 +163,7 @@
       }
     },
     {
-      "name": "Ghost",
+      "name": "Terran Ghost",
       "cost": {
         "gas": 75,
         "minerals": 25,
@@ -174,7 +172,7 @@
       }
     },
     {
-      "name": "Goliath",
+      "name": "Terran Goliath",
       "cost": {
         "gas": 50,
         "minerals": 100,
@@ -183,7 +181,7 @@
       }
     },
     {
-      "name": "Firebat",
+      "name": "Terran Firebat",
       "cost": {
         "gas": 25,
         "minerals": 50,
@@ -192,7 +190,7 @@
       }
     },
     {
-      "name": "Marine",
+      "name": "Terran Marine",
       "cost": {
         "gas": 0,
         "minerals": 50,
@@ -201,7 +199,7 @@
       }
     },
     {
-      "name": "Medic",
+      "name": "Terran Medic",
       "cost": {
         "gas": 25,
         "minerals": 50,
@@ -210,7 +208,7 @@
       }
     },
     {
-      "name": "Science Vessel",
+      "name": "Terran Science Vessel",
       "cost": {
         "gas": 225,
         "minerals": 100,
@@ -219,7 +217,7 @@
       }
     },
     {
-      "name": "SCV",
+      "name": "Terran SCV",
       "cost": {
         "gas": 0,
         "minerals": 50,
@@ -228,7 +226,7 @@
       }
     },
     {
-      "name": "Siege Tank",
+      "name": "Terran Siege Tank",
       "cost": {
         "gas": 100,
         "minerals": 150,
@@ -237,7 +235,7 @@
       }
     },
     {
-      "name": "Spider Mine",
+      "name": "Terran Spider Mine",
       "cost": {
         "gas": 0,
         "minerals": 0,
@@ -246,7 +244,7 @@
       }
     },
     {
-      "name": "Valkyrie",
+      "name": "Terran Valkyrie",
       "cost": {
         "gas": 125,
         "minerals": 250,
@@ -255,7 +253,7 @@
       }
     },
     {
-      "name": "Vulture",
+      "name": "Terran Vulture",
       "cost": {
         "gas": 0,
         "minerals": 75,
@@ -264,18 +262,16 @@
       }
     },
     {
-      "name": "Wraith",
+      "name": "Terran Wraith",
       "cost": {
         "gas": 100,
         "minerals": 150,
         "supply": 2,
         "time": 60
       }
-    }
-  ],
-  "Zerg": [
+    },
     {
-      "name": "Broodling",
+      "name": "Zerg Broodling",
       "cost": {
         "gas": 0,
         "minerals": 0,
@@ -284,7 +280,7 @@
       }
     },
     {
-      "name": "Defiler",
+      "name": "Zerg Defiler",
       "cost": {
         "gas": 150,
         "minerals": 50,
@@ -293,7 +289,7 @@
       }
     },
     {
-      "name": "Devourer",
+      "name": "Zerg Devourer",
       "cost": {
         "gas": 50,
         "minerals": 150,
@@ -302,7 +298,7 @@
       }
     },
     {
-      "name": "Drone",
+      "name": "Zerg Drone",
       "cost": {
         "gas": 0,
         "minerals": 50,
@@ -311,7 +307,7 @@
       }
     },
     {
-      "name": "Guardian",
+      "name": "Zerg Guardian",
       "cost": {
         "gas": 100,
         "minerals": 50,
@@ -320,7 +316,7 @@
       }
     },
     {
-      "name": "Hydralisk",
+      "name": "Zerg Hydralisk",
       "cost": {
         "gas": 25,
         "minerals": 75,
@@ -329,7 +325,7 @@
       }
     },
     {
-      "name": "Infested Terran",
+      "name": "Zerg Infested Terran",
       "cost": {
         "gas": 50,
         "minerals": 100,
@@ -338,7 +334,7 @@
       }
     },
     {
-      "name": "Larva",
+      "name": "Zerg Larva",
       "cost": {
         "gas": 0,
         "minerals": 0,
@@ -347,7 +343,7 @@
       }
     },
     {
-      "name": "Lurker",
+      "name": "Zerg Lurker",
       "cost": {
         "gas": 100,
         "minerals": 50,
@@ -356,7 +352,7 @@
       }
     },
     {
-      "name": "Mutalisk",
+      "name": "Zerg Mutalisk",
       "cost": {
         "gas": 100,
         "minerals": 100,
@@ -365,7 +361,7 @@
       }
     },
     {
-      "name": "Overlord",
+      "name": "Zerg Overlord",
       "cost": {
         "gas": 0,
         "minerals": 100,
@@ -374,7 +370,7 @@
       }
     },
     {
-      "name": "Queen",
+      "name": "Zerg Queen",
       "cost": {
         "gas": 100,
         "minerals": 100,
@@ -383,7 +379,7 @@
       }
     },
     {
-      "name": "Scourge",
+      "name": "Zerg Scourge",
       "cost": {
         "gas": 75,
         "minerals": 25,
@@ -392,7 +388,7 @@
       }
     },
     {
-      "name": "Ultralisk",
+      "name": "Zerg Ultralisk",
       "cost": {
         "gas": 200,
         "minerals": 200,
@@ -401,7 +397,7 @@
       }
     },
     {
-      "name": "Zergling",
+      "name": "Zerg Zergling",
       "cost": {
         "gas": 0,
         "minerals": 50,

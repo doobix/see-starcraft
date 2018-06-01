@@ -4,22 +4,20 @@ const starCraftUnits = require('./starcraft-units.json');
 
 class SeeStarCraft {
   getRandomBuilding() {
-    const race = this.getRandomRace();
-    const buildingLength = starCraftBuildings[race].length;
-    const randomBuilding = getRandomInt(buildingLength)
-    return starCraftBuildings[race][randomBuilding];
+    const buildingsLength = starCraftBuildings.buildings.length;
+    const randomBuilding = getRandomInt(buildingsLength)
+    return starCraftBuildings.buildings[randomBuilding];
   }
 
   getRandomRace() {
     const randomRace = getRandomInt(3);
-    return Object.keys(starCraftUnits)[randomRace];
+    return ['Protoss', 'Terran', 'Zerg'][randomRace];
   }
 
   getRandomUnit() {
-    const race = this.getRandomRace();
-    const unitsLength = starCraftUnits[race].length;
+    const unitsLength = starCraftUnits.units.length;
     const randomUnit = getRandomInt(unitsLength)
-    return starCraftUnits[race][randomUnit];
+    return starCraftUnits.units[randomUnit];
   }
 }
 
