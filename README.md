@@ -34,6 +34,7 @@ console.log(ssc.getRandomUnit());
 console.log(ssc.getRandomBuilding());
 // {
 //   "name": "Protoss Gateway",
+//   "race": "Protoss",
 //   "cost": {
 //     "gas": 0,
 //     "minerals": 150,
