@@ -22,6 +22,7 @@ console.log(ssc.getRandomRace());
 console.log(ssc.getRandomUnit());
 // {
 //   "name": "Terran Science Vessel",
+//   "race": "Terran",
 //   "cost": {
 //     "gas": 225,
 //     "minerals": 100,

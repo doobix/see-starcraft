@@ -9,6 +9,7 @@ assert(['Protoss', 'Terran', 'Zerg'].includes(randomRace));
 const randomUnit = ssc.getRandomUnit();
 console.log(randomUnit);
 assert(Object.keys(randomUnit).includes('name'));
+assert(Object.keys(randomUnit).includes('race'));
 assert(Object.keys(randomUnit).includes('cost'));
 assert(Object.keys(randomUnit.cost).includes('minerals'));
 assert(Object.keys(randomUnit.cost).includes('gas'));
