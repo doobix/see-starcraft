@@ -27,7 +27,7 @@ console.log(ssc.getRandomUnit());
 //     "gas": 225,
 //     "minerals": 100,
 //     "supply": 2,
-//     "time": 50
+//     "time": 80
 //   }
 // }
 
