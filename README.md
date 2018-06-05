@@ -36,6 +36,11 @@ const ssc = new SeeStarCraft();
     "minerals": 100,
     "supply": 2,
     "time": 80
+  },
+  "properties": {
+    "hit_points": 200,
+    "shields": null,
+    "armor": 1
   }
 }
 ```
