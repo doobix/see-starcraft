@@ -13,6 +13,10 @@
         "hit_points": 200,
         "shields": 150,
         "armor": 1
+      },
+      "ground_weapon": {
+        "name": "Phase Disruptor Cannon",
+        "damage": 10
       }
     },
     {
@@ -28,6 +32,10 @@
         "hit_points": 10,
         "shields": 350,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": "Psionic Shockwave",
+        "damage": 30
       }
     },
     {
@@ -43,6 +51,10 @@
         "hit_points": 300,
         "shields": 150,
         "armor": 4
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -58,6 +70,10 @@
         "hit_points": 100,
         "shields": 80,
         "armor": 1
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -73,6 +89,10 @@
         "hit_points": 25,
         "shields": 200,
         "armor": 1
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -88,6 +108,10 @@
         "hit_points": 80,
         "shields": 40,
         "armor": 1
+      },
+      "ground_weapon": {
+        "name": "Warp Blades",
+        "damage": 40
       }
     },
     {
@@ -103,6 +127,10 @@
         "hit_points": 100,
         "shields": 80,
         "armor": 1
+      },
+      "ground_weapon": {
+        "name": "Phase Disruptor",
+        "damage": 20
       }
     },
     {
@@ -118,6 +146,10 @@
         "hit_points": 40,
         "shields": 40,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -133,6 +165,10 @@
         "hit_points": 40,
         "shields": 40,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": "Pulse Cannon",
+        "damage": 6
       }
     },
     {
@@ -148,6 +184,10 @@
         "hit_points": 40,
         "shields": 20,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -163,6 +203,10 @@
         "hit_points": 20,
         "shields": 20,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": "Particle Beam",
+        "damage": 5
       }
     },
     {
@@ -178,6 +222,10 @@
         "hit_points": 100,
         "shields": 80,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -193,6 +241,10 @@
         "hit_points": 20,
         "shields": 10,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": "Scarab",
+        "damage": 100
       }
     },
     {
@@ -208,6 +260,10 @@
         "hit_points": 150,
         "shields": 100,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": "Dual Photon Blasters",
+        "damage": 8
       }
     },
     {
@@ -223,6 +279,10 @@
         "hit_points": 80,
         "shields": 60,
         "armor": 1
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -238,6 +298,10 @@
         "hit_points": 100,
         "shields": 60,
         "armor": 1
+      },
+      "ground_weapon": {
+        "name": "Psi Blades",
+        "damage": 8
       }
     },
     {
