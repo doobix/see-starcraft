@@ -7,6 +7,11 @@
         "gas": 150,
         "minerals": 200,
         "time": 60
+      },
+      "properties": {
+        "hit_points": 500,
+        "shields": 500,
+        "armor": 1
       }
     },
     {
@@ -16,6 +21,11 @@
         "gas": 0,
         "minerals": 100,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 450,
+        "shields": 450,
+        "armor": 1
       }
     },
     {
@@ -25,6 +35,11 @@
         "gas": 100,
         "minerals": 150,
         "time": 60
+      },
+      "properties": {
+        "hit_points": 450,
+        "shields": 450,
+        "armor": 1
       }
     },
     {
@@ -34,6 +49,11 @@
         "gas": 0,
         "minerals": 200,
         "time": 60
+      },
+      "properties": {
+        "hit_points": 500,
+        "shields": 500,
+        "armor": 1
       }
     },
     {
@@ -43,6 +63,11 @@
         "gas": 200,
         "minerals": 300,
         "time": 60
+      },
+      "properties": {
+        "hit_points": 500,
+        "shields": 500,
+        "armor": 1
       }
     },
     {
@@ -52,6 +77,11 @@
         "gas": 0,
         "minerals": 150,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 550,
+        "shields": 550,
+        "armor": 1
       }
     },
     {
@@ -61,6 +91,11 @@
         "gas": 0,
         "minerals": 150,
         "time": 60
+      },
+      "properties": {
+        "hit_points": 500,
+        "shields": 500,
+        "armor": 1
       }
     },
     {
@@ -70,6 +105,11 @@
         "gas": 0,
         "minerals": 400,
         "time": 120
+      },
+      "properties": {
+        "hit_points": 750,
+        "shields": 750,
+        "armor": 1
       }
     },
     {
@@ -79,6 +119,11 @@
         "gas": 100,
         "minerals": 50,
         "time": 30
+      },
+      "properties": {
+        "hit_points": 250,
+        "shields": 250,
+        "armor": 1
       }
     },
     {
@@ -88,6 +133,11 @@
         "gas": 0,
         "minerals": 150,
         "time": 50
+      },
+      "properties": {
+        "hit_points": 100,
+        "shields": 100,
+        "armor": 0
       }
     },
     {
@@ -97,6 +147,11 @@
         "gas": 0,
         "minerals": 100,
         "time": 30
+      },
+      "properties": {
+        "hit_points": 300,
+        "shields": 300,
+        "armor": 0
       }
     },
     {
@@ -106,6 +161,11 @@
         "gas": 200,
         "minerals": 200,
         "time": 80
+      },
+      "properties": {
+        "hit_points": 500,
+        "shields": 500,
+        "armor": 1
       }
     },
     {
@@ -115,6 +175,11 @@
         "gas": 100,
         "minerals": 150,
         "time": 30
+      },
+      "properties": {
+        "hit_points": 450,
+        "shields": 450,
+        "armor": 1
       }
     },
     {
@@ -124,6 +189,11 @@
         "gas": 0,
         "minerals": 100,
         "time": 30
+      },
+      "properties": {
+        "hit_points": 200,
+        "shields": 200,
+        "armor": 1
       }
     },
     {
@@ -133,6 +203,11 @@
         "gas": 150,
         "minerals": 150,
         "time": 70
+      },
+      "properties": {
+        "hit_points": 600,
+        "shields": 600,
+        "armor": 1
       }
     },
     {
@@ -142,6 +217,11 @@
         "gas": 200,
         "minerals": 150,
         "time": 60
+      },
+      "properties": {
+        "hit_points": 500,
+        "shields": 500,
+        "armor": 1
       }
     },
     {
@@ -151,6 +231,11 @@
         "gas": 0,
         "minerals": 150,
         "time": 80
+      },
+      "properties": {
+        "hit_points": 600,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -160,6 +245,11 @@
         "gas": 50,
         "minerals": 100,
         "time": 80
+      },
+      "properties": {
+        "hit_points": 750,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -169,6 +259,11 @@
         "gas": 0,
         "minerals": 150,
         "time": 80
+      },
+      "properties": {
+        "hit_points": 1000,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -178,6 +273,11 @@
         "gas": 0,
         "minerals": 100,
         "time": 30
+      },
+      "properties": {
+        "hit_points": 350,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -187,6 +287,11 @@
         "gas": 0,
         "minerals": 400,
         "time": 120
+      },
+      "properties": {
+        "hit_points": 1500,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -196,6 +301,11 @@
         "gas": 50,
         "minerals": 50,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 500,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -205,6 +315,11 @@
         "gas": 50,
         "minerals": 50,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 500,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -214,6 +329,11 @@
         "gas": 50,
         "minerals": 50,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 750,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -223,6 +343,11 @@
         "gas": 0,
         "minerals": 125,
         "time": 60
+      },
+      "properties": {
+        "hit_points": 850,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -232,6 +357,11 @@
         "gas": 100,
         "minerals": 200,
         "time": 80
+      },
+      "properties": {
+        "hit_points": 1250,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -241,6 +371,11 @@
         "gas": 50,
         "minerals": 50,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 750,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -250,6 +385,11 @@
         "gas": 0,
         "minerals": 75,
         "time": 30
+      },
+      "properties": {
+        "hit_points": 200,
+        "shields": null,
+        "armor": 0
       }
     },
     {
@@ -259,6 +399,11 @@
         "gas": 100,
         "minerals": 100,
         "time": 80
+      },
+      "properties": {
+        "hit_points": 600,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -268,6 +413,11 @@
         "gas": 50,
         "minerals": 50,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 600,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -277,6 +427,11 @@
         "gas": 0,
         "minerals": 100,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 750,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -286,6 +441,11 @@
         "gas": 150,
         "minerals": 100,
         "time": 60
+      },
+      "properties": {
+        "hit_points": 850,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -295,6 +455,11 @@
         "gas": 100,
         "minerals": 150,
         "time": 70
+      },
+      "properties": {
+        "hit_points": 1300,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -304,6 +469,11 @@
         "gas": 0,
         "minerals": 100,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 500,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -313,6 +483,11 @@
         "gas": 0,
         "minerals": 75,
         "time": 20
+      },
+      "properties": {
+        "hit_points": 400,
+        "shields": null,
+        "armor": 0
       }
     },
     {
@@ -322,6 +497,11 @@
         "gas": 100,
         "minerals": 100,
         "time": 60
+      },
+      "properties": {
+        "hit_points": 850,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -331,6 +511,11 @@
         "gas": 0,
         "minerals": 75,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 750,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -340,6 +525,11 @@
         "gas": 0,
         "minerals": 50,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 750,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -349,6 +539,11 @@
         "gas": 150,
         "minerals": 100,
         "time": 120
+      },
+      "properties": {
+        "hit_points": 1000,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -358,6 +553,11 @@
         "gas": 0,
         "minerals": 300,
         "time": 120
+      },
+      "properties": {
+        "hit_points": 1250,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -367,6 +567,11 @@
         "gas": 150,
         "minerals": 200,
         "time": 120
+      },
+      "properties": {
+        "hit_points": 2500,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -376,6 +581,11 @@
         "gas": 50,
         "minerals": 100,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 850,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -385,6 +595,11 @@
         "gas": 0,
         "minerals": 0,
         "time": 120
+      },
+      "properties": {
+        "hit_points": 1500,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -394,6 +609,11 @@
         "gas": 100,
         "minerals": 150,
         "time": 100
+      },
+      "properties": {
+        "hit_points": 1800,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -403,6 +623,11 @@
         "gas": 0,
         "minerals": 150,
         "time": 40
+      },
+      "properties": {
+        "hit_points": 250,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -412,6 +637,11 @@
         "gas": 100,
         "minerals": 150,
         "time": 60
+      },
+      "properties": {
+        "hit_points": 850,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -421,6 +651,11 @@
         "gas": 0,
         "minerals": 200,
         "time": 80
+      },
+      "properties": {
+        "hit_points": 750,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -430,6 +665,11 @@
         "gas": 150,
         "minerals": 200,
         "time": 120
+      },
+      "properties": {
+        "hit_points": 600,
+        "shields": null,
+        "armor": 1
       }
     },
     {
@@ -439,6 +679,11 @@
         "gas": 0,
         "minerals": 50,
         "time": 20
+      },
+      "properties": {
+        "hit_points": 400,
+        "shields": null,
+        "armor": 0
       }
     },
     {
@@ -448,6 +693,11 @@
         "gas": 0,
         "minerals": 50,
         "time": 20
+      },
+      "properties": {
+        "hit_points": 300,
+        "shields": null,
+        "armor": 2
       }
     },
     {
@@ -457,6 +707,11 @@
         "gas": 200,
         "minerals": 150,
         "time": 80
+      },
+      "properties": {
+        "hit_points": 600,
+        "shields": null,
+        "armor": 1
       }
     }
   ]
