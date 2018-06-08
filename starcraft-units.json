@@ -602,6 +602,10 @@
         "hit_points": 30,
         "shields": null,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": "Toxic Spores",
+        "damage": 4
       }
     },
     {
@@ -617,6 +621,10 @@
         "hit_points": 80,
         "shields": null,
         "armor": 1
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -632,6 +640,10 @@
         "hit_points": 250,
         "shields": null,
         "armor": 2
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -647,6 +659,10 @@
         "hit_points": 40,
         "shields": null,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": "Spines",
+        "damage": 5
       }
     },
     {
@@ -662,6 +678,10 @@
         "hit_points": 150,
         "shields": null,
         "armor": 2
+      },
+      "ground_weapon": {
+        "name": "Acid Spore",
+        "damage": 20
       }
     },
     {
@@ -677,6 +697,10 @@
         "hit_points": 80,
         "shields": null,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": "Needle Spines",
+        "damage": 10
       }
     },
     {
@@ -692,6 +716,10 @@
         "hit_points": 60,
         "shields": null,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": "Suicide",
+        "damage": 500
       }
     },
     {
@@ -707,6 +735,10 @@
         "hit_points": 25,
         "shields": null,
         "armor": 10
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -722,6 +754,10 @@
         "hit_points": 125,
         "shields": null,
         "armor": 1
+      },
+      "ground_weapon": {
+        "name": "Subterranean Spines",
+        "damage": 20
       }
     },
     {
@@ -737,6 +773,10 @@
         "hit_points": 120,
         "shields": null,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": "Glave Wurm",
+        "damage": 9
       }
     },
     {
@@ -752,6 +792,10 @@
         "hit_points": 200,
         "shields": null,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -767,6 +811,10 @@
         "hit_points": 120,
         "shields": null,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -782,6 +830,10 @@
         "hit_points": 25,
         "shields": null,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -797,6 +849,10 @@
         "hit_points": 400,
         "shields": null,
         "armor": 1
+      },
+      "ground_weapon": {
+        "name": "Kaiser Blades",
+        "damage": 20
       }
     },
     {
@@ -812,6 +868,10 @@
         "hit_points": 35,
         "shields": null,
         "armor": 0
+      },
+      "ground_weapon": {
+        "name": "Claws",
+        "damage": 5
       }
     }
   ]
