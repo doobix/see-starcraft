@@ -17,6 +17,10 @@
       "ground_weapon": {
         "name": "Phase Disruptor Cannon",
         "damage": 10
+      },
+      "air_weapon": {
+        "name": "Phase Disruptor Cannon",
+        "damage": 10
       }
     },
     {
@@ -34,6 +38,10 @@
         "armor": 0
       },
       "ground_weapon": {
+        "name": "Psionic Shockwave",
+        "damage": 30
+      },
+      "air_weapon": {
         "name": "Psionic Shockwave",
         "damage": 30
       }
@@ -55,6 +63,10 @@
       "ground_weapon": {
         "name": null,
         "damage": null
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -74,6 +86,10 @@
       "ground_weapon": {
         "name": null,
         "damage": null
+      },
+      "air_weapon": {
+        "name": "Neutron Flare",
+        "damage": 5
       }
     },
     {
@@ -91,6 +107,10 @@
         "armor": 1
       },
       "ground_weapon": {
+        "name": null,
+        "damage": null
+      },
+      "air_weapon": {
         "name": null,
         "damage": null
       }
@@ -112,6 +132,10 @@
       "ground_weapon": {
         "name": "Warp Blades",
         "damage": 40
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -129,6 +153,10 @@
         "armor": 1
       },
       "ground_weapon": {
+        "name": "Phase Disruptor",
+        "damage": 20
+      },
+      "air_weapon": {
         "name": "Phase Disruptor",
         "damage": 20
       }
@@ -150,6 +178,10 @@
       "ground_weapon": {
         "name": null,
         "damage": null
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -167,6 +199,10 @@
         "armor": 0
       },
       "ground_weapon": {
+        "name": "Pulse Cannon",
+        "damage": 6
+      },
+      "air_weapon": {
         "name": "Pulse Cannon",
         "damage": 6
       }
@@ -188,6 +224,10 @@
       "ground_weapon": {
         "name": null,
         "damage": null
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -207,6 +247,10 @@
       "ground_weapon": {
         "name": "Particle Beam",
         "damage": 5
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -224,6 +268,10 @@
         "armor": 0
       },
       "ground_weapon": {
+        "name": null,
+        "damage": null
+      },
+      "air_weapon": {
         "name": null,
         "damage": null
       }
@@ -245,6 +293,10 @@
       "ground_weapon": {
         "name": "Scarab",
         "damage": 100
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -264,6 +316,10 @@
       "ground_weapon": {
         "name": "Dual Photon Blasters",
         "damage": 8
+      },
+      "air_weapon": {
+        "name": "Anti-matter Missiles",
+        "damage": 14
       }
     },
     {
@@ -281,6 +337,10 @@
         "armor": 1
       },
       "ground_weapon": {
+        "name": null,
+        "damage": null
+      },
+      "air_weapon": {
         "name": null,
         "damage": null
       }
@@ -302,6 +362,10 @@
       "ground_weapon": {
         "name": "Psi Blades",
         "damage": 8
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
