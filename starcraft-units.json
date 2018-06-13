@@ -383,7 +383,11 @@
         "armor": 3
       },
       "ground_weapon": {
-        "name": "ATS Laster Battery",
+        "name": "ATS Laser Battery",
+        "damage": 25
+      },
+      "air_weapon": {
+        "name": "ATS Laser Battery",
         "damage": 25
       }
     },
@@ -402,6 +406,10 @@
         "armor": 1
       },
       "ground_weapon": {
+        "name": null,
+        "damage": null
+      },
+      "air_weapon": {
         "name": null,
         "damage": null
       }
@@ -423,6 +431,10 @@
       "ground_weapon": {
         "name": "C-10 Canister Rifle",
         "damage": 10
+      },
+      "air_weapon": {
+        "name": "C-10 Canister Rifle",
+        "damage": 10
       }
     },
     {
@@ -442,6 +454,10 @@
       "ground_weapon": {
         "name": "Twin Autocannons",
         "damage": 12
+      },
+      "air_weapon": {
+        "name": "Hellfire Missile Pack",
+        "damage": 10
       }
     },
     {
@@ -461,6 +477,10 @@
       "ground_weapon": {
         "name": "Flame Thrower",
         "damage": 8
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -478,6 +498,10 @@
         "armor": 0
       },
       "ground_weapon": {
+        "name": "Gauss Rifle",
+        "damage": 6
+      },
+      "air_weapon": {
         "name": "Gauss Rifle",
         "damage": 6
       }
@@ -499,6 +523,10 @@
       "ground_weapon": {
         "name": null,
         "damage": null
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -516,6 +544,10 @@
         "armor": 1
       },
       "ground_weapon": {
+        "name": null,
+        "damage": null
+      },
+      "air_weapon": {
         "name": null,
         "damage": null
       }
@@ -537,6 +569,10 @@
       "ground_weapon": {
         "name": "Fusion Cutter",
         "damage": 5
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -556,6 +592,10 @@
       "ground_weapon": {
         "name": "Arclite Shock Cannon",
         "damage": 70
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -575,6 +615,10 @@
       "ground_weapon": {
         "name": "Arclite Cannon",
         "damage": 30
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -594,6 +638,10 @@
       "ground_weapon": {
         "name": "Spider Mines",
         "damage": 125
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -613,6 +661,10 @@
       "ground_weapon": {
         "name": null,
         "damage": null
+      },
+      "air_weapon": {
+        "name": "Halo Rockets",
+        "damage": 6
       }
     },
     {
@@ -632,6 +684,10 @@
       "ground_weapon": {
         "name": "Fragmentation Grenade",
         "damage": 20
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -651,6 +707,10 @@
       "ground_weapon": {
         "name": "Burst Lasers",
         "damage": 8
+      },
+      "air_weapon": {
+        "name": "Gemini Missiles",
+        "damage": 20
       }
     },
     {
