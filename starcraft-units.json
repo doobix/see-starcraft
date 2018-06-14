@@ -730,6 +730,10 @@
       "ground_weapon": {
         "name": "Toxic Spores",
         "damage": 4
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -747,6 +751,10 @@
         "armor": 1
       },
       "ground_weapon": {
+        "name": null,
+        "damage": null
+      },
+      "air_weapon": {
         "name": null,
         "damage": null
       }
@@ -768,6 +776,10 @@
       "ground_weapon": {
         "name": null,
         "damage": null
+      },
+      "air_weapon": {
+        "name": "Corrosive Acid",
+        "damage": 25
       }
     },
     {
@@ -787,6 +799,10 @@
       "ground_weapon": {
         "name": "Spines",
         "damage": 5
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -806,6 +822,10 @@
       "ground_weapon": {
         "name": "Acid Spore",
         "damage": 20
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -823,6 +843,10 @@
         "armor": 0
       },
       "ground_weapon": {
+        "name": "Needle Spines",
+        "damage": 10
+      },
+      "air_weapon": {
         "name": "Needle Spines",
         "damage": 10
       }
@@ -844,6 +868,10 @@
       "ground_weapon": {
         "name": "Suicide",
         "damage": 500
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -861,6 +889,10 @@
         "armor": 10
       },
       "ground_weapon": {
+        "name": null,
+        "damage": null
+      },
+      "air_weapon": {
         "name": null,
         "damage": null
       }
@@ -882,6 +914,10 @@
       "ground_weapon": {
         "name": "Subterranean Spines",
         "damage": 20
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -899,6 +935,10 @@
         "armor": 0
       },
       "ground_weapon": {
+        "name": "Glave Wurm",
+        "damage": 9
+      },
+      "air_weapon": {
         "name": "Glave Wurm",
         "damage": 9
       }
@@ -920,6 +960,10 @@
       "ground_weapon": {
         "name": null,
         "damage": null
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -937,6 +981,10 @@
         "armor": 0
       },
       "ground_weapon": {
+        "name": null,
+        "damage": null
+      },
+      "air_weapon": {
         "name": null,
         "damage": null
       }
@@ -958,6 +1006,10 @@
       "ground_weapon": {
         "name": null,
         "damage": null
+      },
+      "air_weapon": {
+        "name": "Suicide",
+        "damage": 110
       }
     },
     {
@@ -977,6 +1029,10 @@
       "ground_weapon": {
         "name": "Kaiser Blades",
         "damage": 20
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     },
     {
@@ -996,6 +1052,10 @@
       "ground_weapon": {
         "name": "Claws",
         "damage": 5
+      },
+      "air_weapon": {
+        "name": null,
+        "damage": null
       }
     }
   ]
