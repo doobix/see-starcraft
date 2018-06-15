@@ -22,25 +22,33 @@ const ssc = new SeeStarCraft();
 ### `ssc.getRandomRace()`
 
 ```
-"Zerg"
+Zerg
 ```
 
 ### `ssc.getRandomUnit()`
 
 ```
 {
-  "name": "Terran Science Vessel",
-  "race": "Terran",
-  "cost": {
-    "gas": 225,
-    "minerals": 100,
-    "supply": 2,
-    "time": 80
+  name: 'Terran Siege Tank (Siege Mode)',
+  race: 'Terran',
+  cost: {
+    gas: 100,
+    minerals: 150,
+    supply: 2,
+    time: 50
   },
-  "properties": {
-    "hit_points": 200,
-    "shields": null,
-    "armor": 1
+  properties: {
+    hit_points: 150,
+    shields: null,
+    armor: 1
+  },
+  ground_weapon: {
+    name: 'Arclite Shock Cannon',
+    damage: 70
+  },
+  air_weapon: {
+    name: null,
+    damage: null
   }
 }
 ```
@@ -49,17 +57,17 @@ const ssc = new SeeStarCraft();
 
 ```
 {
-  "name": "Protoss Gateway",
-  "race": "Protoss",
-  "cost": {
-    "gas": 0,
-    "minerals": 150,
-    "time": 60
+  name: 'Protoss Robotics Support Bay',
+  race: 'Protoss',
+  cost: {
+    gas: 100,
+    minerals: 150,
+    time: 30
   },
-  "properties": {
-    "hit_points": 500,
-    "shields": 500,
-    "armor": 1
+  properties: {
+    hit_points: 450,
+    shields: 450,
+    armor: 1
   }
 }
 ```
